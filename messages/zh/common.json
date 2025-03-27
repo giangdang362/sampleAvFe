@@ -1,0 +1,21 @@
+{
+  "common": {
+    "search_dialog_title": "Search by image",
+    "search_content_1": "Drag the image here or",
+    "search_content_2": "upload file",
+    "edit": "Edit",
+    "delete": "Delete",
+    "save": "Save",
+    "add_to": "Add To",
+    "cancel": "Cancel",
+    "add": "Add",
+    "save_to": "Save To",
+    "back": "Back",
+    "next": "Next",
+    "title_step_1": "Step 1",
+    "subtitle_step_1": "General Information",
+    "title_step_2": "Step 2",
+    "subtitle_step_2": "Add Contacts",
+    "empty_data": "No record founds"
+  }
+}

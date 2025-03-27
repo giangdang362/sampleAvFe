@@ -1,0 +1,23 @@
+{
+  "pinboard": {
+    "notes": "Notes",
+    "editPinboardName": "Edit pinboard name",
+    "savePinboardName": "Save pinboard name",
+    "cancelEditingPinboardName": "Cancel editing pinboard name",
+    "menu": "Menu",
+    "exportAsPdf": "Export as PDF",
+    "delete": "Delete",
+    "addFromMyFiles": "Add from my files",
+    "addFromPinterest": "Add from Pinterest",
+    "section": {
+      "editSectionName": "Edit section name",
+      "saveSectionName": "Save section name",
+      "cancelEditingSectionName": "Cancel editing section name",
+      "moveSectionUp": "Move section up",
+      "moveSectionDown": "Move section down",
+      "addToSection": "Add to section",
+      "deleteSection": "Delete section",
+      "createNewSection": "Create new section"
+    }
+  }
+}

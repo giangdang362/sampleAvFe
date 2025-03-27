@@ -1,0 +1,29 @@
+{
+  "imageLibrary": {
+    "title": "Image Library",
+    "new": "New",
+    "uploader": "Uploader",
+    "uploaded_by": "Uploaded by",
+    "search": "Search",
+    "add_to_pinboard": "Add to Pinboard",
+    "add_from_my_files": "Add from my files",
+    "add_from_my_pinterest": "Add from Pinterest",
+    "item": "item",
+    "items": "items",
+    "selected": "selected",
+    "delete": "Delete",
+    "delete_image": "Delete Image",
+    "deleteContent": "Are you sure want to delete",
+    "deleteContentDetail": "Are you sure want to delete {name}?",
+    "bulk_delete": "Bulk Delete",
+    "save": "Save Change",
+    "cancel": "Cancel",
+    "image_name": "Image Name",
+    "description": "Description",
+    "notes": "Notes",
+    "tag": "Tag",
+    "add_to": "Add To",
+    "no_data": "No data",
+    "textDrag": "Drag & drop from \n devices or <u>upload a file</u>"
+  }
+}

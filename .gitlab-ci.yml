@@ -1,0 +1,33 @@
+stages:
+  - lint
+  - build-dev
+build-job:
+  stage: build-dev
+  only:
+    - dev
+  tags:
+    - avci
+  script:
+    - echo "Hello, $GITLAB_USER_LOGIN!"
+    - source /home/ltsadmin/.zshenv
+    - cd /home/ltsadmin/avci/frontend/
+    - git pull
+    - yarn
+    - yarn build
+    - pm2 restart frontend
+    - ./msg.sh
+    - echo $CI_COMMIT_MESSAGE
+
+lint:
+  stage: lint
+  tags:
+    - avci
+  rules:
+    - if: $CI_PIPELINE_SOURCE == 'merge_request_event'
+  script:
+    - source /home/ltsadmin/.zshenv
+    - nvm -v
+    - yarn
+    - yarn lint
+    - yarn build
+    - echo "This job tests something"

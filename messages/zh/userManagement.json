@@ -1,0 +1,19 @@
+{
+  "userManagement": {
+    "title": "Users",
+
+    
+    "created_by": "Created by",
+    "attachments": "Attachments",
+    "contact_name": "Contact Name",
+    "role": "Role",
+    "email": "Email",
+    "phone": "Phone",
+    "edit": "Edit",
+    "delete": "Delete",
+    "add": "Add",
+    "save": "Save",
+    "enter": "Enter",
+    "cancel": "Cancel"
+  }
+}

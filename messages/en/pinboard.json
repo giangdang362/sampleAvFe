@@ -1,0 +1,54 @@
+{
+  "pinboard": {
+    "notes": "Notes",
+    "share": "Share",
+    "editPinboardName": "Edit pinboard name",
+    "editPinboardNamePlaceholder": "Add pinboard name",
+    "menu": "Menu",
+    "exportAsPdf": "Export as PDF",
+    "addTextCard": "Add text card",
+    "delete": "Delete",
+    "deletePinboard": "Delete pinboard",
+    "shareProject": "Share Project",
+    "pinboardNotFound": "Pinboard not found",
+    "imageUploadInstruction": "Drag & drop the image here or\n<u>upload a file</u>",
+    "section": {
+      "untitledSection": "Untitled",
+      "editSectionName": "Edit section name",
+      "editSectionNamePlaceholder": "Add section name",
+      "moveSectionUp": "Move section up",
+      "moveSectionDown": "Move section down",
+      "addToSection": "Add to section",
+      "createNewSection": "Create new section",
+      "deleteSection": "Delete section",
+      "contentOverflowWarning": "The content exceeds the page length. Please adjust the content to fit within the page to ensure proper formatting in the exported PDF file."
+    },
+    "card": {
+      "deleteCard": "Delete {type, select, image {image} text {text card} other {card}}",
+      "changeCardSize": "Change {type, select, image {image} text {text card} other {card}} size"
+    },
+    "image": {
+      "notes": "Notes",
+      "link": "Link",
+      "cropImage": "Crop image",
+      "changeImageSize": "Change image size",
+      "deleteImage": "Delete image",
+      "deleteImageContent": "Are you sure you want to delete this image?"
+    },
+    "text": {
+      "fontSize": "Font size",
+      "boldTooltip": "Bold (Ctrl+B)",
+      "italicTooltip": "Italic (Ctrl+I)",
+      "underlineTooltip": "Underline (Ctrl+U)",
+      "placeholder": "Type something here...",
+      "errorText": "Content too long.",
+      "deleteTextContent": "Are you sure you want to delete this text card?"
+    },
+    "validation": {
+      "pinboardNameEmpty": "Pinboard name is required.",
+      "pinboardNameMaxLength": "Pinboard name must not be longer than {count, plural, =1 {# character} other {# characters}}.",
+      "pinboardSectionNameMaxLength": "Pinboard section name must not be longer than {count, plural, =1 {# character} other {# characters}}.",
+      "pinboardExists": "Pinboard already exists."
+    }
+  }
+}

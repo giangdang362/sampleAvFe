@@ -1,0 +1,85 @@
+{
+  "signUp": {
+    "exist_acc": "User already exists",
+    "check_email": "You requested! Please check your email",
+    "already_acc": "Already have an account?",
+    "create_acc": "Create Account",
+    "continue": "Continue",
+    "back": "Back",
+    "sign_in": "Sign In",
+    "term": {
+      "1": "By clicking “Create Account”, you agree to our",
+      "2": "Terms of Service",
+      "3": "and",
+      "4": "Privacy Policy"
+    },
+    "signUp1": {
+      "main_title": "Let’s get started",
+      "main_desc": "Free membership and Next-day sample delivery service is opened to professionals in the architecture and design industry.",
+      "email": "Your work email",
+      "email_desc": "To facilitate quicker membership approval, please provide an email associated with your professional business.",
+      "password": "Password",
+      "confirm_password": "Confirm your password",
+      "show_password": "Show password",
+      "hide_password": "Hide password"
+    },
+    "signUp2": {
+      "main_title": "Tell us a little about yourself",
+      "your_name": "Your Name",
+      "your_link": "Your LinkedIn or Other Professional Link"
+    },
+    "signUp3": {
+      "main_title": "Tell us about your Company",
+      "main_desc": "Our platform is exclusively for interior design and architecture professionals. Please provide some information of the company you are affiliated with.",
+      "company_name": "Company Name",
+      "company_link": "Company Website Link",
+      "link_desc": "If you don't have a company website, please provide a link that demonstrates its connection to the industry."
+    },
+    "signUp4": {
+      "main_title": "Contact Information",
+      "phone": "Phone",
+      "company_address": "Company Address",
+      "country": "Country"
+    },
+    "company_expertise": {
+      "main_title": "What is your company's field of expertise?",
+      "main_desc": "You can select more than 1 option.",
+      "company_address": "Company Address",
+      "country": "Country",
+      "options": {
+        "1": "Architectural",
+        "2": "Interior Design (Individual Household Project)",
+        "3": "Interior Design (Development Project)",
+        "4": "Contractor (Individual Household Project)",
+        "5": "Contractor (Development Project)",
+        "6": "Landscape Architect"
+      }
+    },
+    "type_of_client": {
+      "main_title": "What type of clients are you working with?",
+      "main_desc": "You can select more than 1 option.",
+      "options": {
+        "1": "Private Developer",
+        "2": "Public Sector",
+        "3": "NGO",
+        "4": "Private Individual",
+        "5": "Family Office"
+      }
+    },
+    "primary_work_in": {
+      "main_title": "Lastly, which professional sector do you primarily work in?",
+      "main_desc": "You can select up to 3 option.",
+      "options": {
+        "1": "Residential",
+        "2": "Education",
+        "3": "Hospitality",
+        "4": "Infrastructure",
+        "5": "Commercial",
+        "6": "Industrial",
+        "7": "Retail",
+        "8": "Student Work"
+      }
+    },
+    "other": "Other"
+  }
+}

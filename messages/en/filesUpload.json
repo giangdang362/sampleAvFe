@@ -1,0 +1,23 @@
+{
+  "filesUpload": {
+    "textInstructionDefault": "Drag and drop or \n <u>upload a file</u>",
+    "instruction": "<u>Click to upload</u> or drag and drop",
+    "uploadImageNumberInfo": "Upload up to {count, plural, =1 {# image} other {# images}}",
+    "uploadFileNumberInfo": "Upload up to {count, plural, =1 {# file} other {# files}}",
+    "uploadFileNumberAndSizeInfo": "Upload up to {count, plural, =1 {# file} other {# files}} (max. {size}MB)",
+    "formatsOnly": "{formats} only",
+
+    "maxFileMessage": "Up to {number} {type} can be uploaded.",
+    "maxSizeMessage": "One or more {type} are larger than {size}MB.",
+    "invalidFormatsMessage": "Unsupported format. Please choose images with following formats: {formats}",
+    "images": "images",
+    "excels": "excels",
+    "files": "files",
+    "excel": "excel",
+    "image": "image",
+    "file": "file",
+
+    "deleteImage": "Delete image",
+    "deleteFile": "Delete file"
+  }
+}

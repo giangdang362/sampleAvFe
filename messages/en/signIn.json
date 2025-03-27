@@ -1,0 +1,17 @@
+{
+  "signIn": {
+    "main_title": "Welcome Back!",
+    "incorrect_email": "Incorrect Email",
+    "user_not_active": "User not Active",
+    "incorrect_password": "Incorrect Password",
+    "email": "Email",
+    "password": "Password",
+    "remember_me": "Remember me",
+    "forgot_password": "Forgot password?",
+    "sign_in_btn": "Sign In",
+    "do_not_have_acc": "Don't have an account?",
+    "create_an_acc": "Create an Account",
+    "show_password": "Show password",
+    "hide_password": "Hide password"
+  }
+}

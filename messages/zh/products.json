@@ -1,0 +1,9 @@
+{
+  "products": {
+    "title": "Products zh",
+    "create_product": "Create Product",
+    "plan_product": "Publish",
+    "organization_product": "Private",
+    "project_product": "Publish"
+  }
+}

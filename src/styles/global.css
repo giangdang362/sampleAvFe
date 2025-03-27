@@ -1,0 +1,42 @@
+/* Variables */
+:root {
+  --icon-fontSize-sm: 1rem;
+  --icon-fontSize-md: 1.25rem;
+  --icon-fontSize-lg: 1.5rem;
+}
+
+*:focus-visible {
+  outline: 2px solid var(--mui-palette-primary-main);
+}
+
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+}
+
+.Mui-error > .MuiInputAdornment-root.MuiInputAdornment-positionStart {
+  color: var(--mui-palette-error-main);
+}
+.Mui-error > .MuiInputAdornment-root.MuiInputAdornment-positionStart svg {
+  color: inherit;
+}
+
+.MuiFormLabel-root[data-shrink="false"] .MuiFormLabel-asterisk {
+  color: inherit;
+}
+
+#country-menu .MuiMenuItem-root.country > div {
+  display: flex;
+}
+#country-menu .MuiMenuItem-root.country > .dial-code {
+  color: var(--mui-palette-text-disabled);
+  margin-left: 4px;
+}
+
+[aria-roledescription="draggable"]:focus-visible {
+  outline-color: var(--mui-palette-primary-600);
+  outline-style: dotted;
+}

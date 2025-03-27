@@ -1,0 +1,16 @@
+{
+  "menu": {
+    "admin": {
+      "products": "Products",
+      "projects": "Projects"
+    },
+    "user": {
+      "products": "Products"
+    },
+    "search_header": "Search",
+    "setting": "Settings",
+    "account": "Account",
+    "profile": "Profile",
+    "logout": "Log out"
+  }
+}

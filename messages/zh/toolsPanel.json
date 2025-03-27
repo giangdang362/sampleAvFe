@@ -1,0 +1,19 @@
+{
+  "toolsPanel": {
+    "tabs": {
+      "products": "Products",
+      "images": "Images",
+      "projects": "Projects"
+    },
+    "search": "Search",
+    "color": "Color",
+    "size": "Size",
+    "surface": "Surface",
+    "sameSeries": "SAME SERIES",
+    "tooltips": {
+      "closePanel": "Close panel",
+      "openFilterProduct": "Open filter product",
+      "closeFilterProduct": "Close Filter product"
+    }
+  }
+}

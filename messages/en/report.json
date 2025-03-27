@@ -1,0 +1,25 @@
+{
+  "report": {
+    "title": "Report",
+    "sample_request": "Sample Request",
+    "sampleRequest": {
+      "search": "Search",
+      "title": "Sample Request Summary",
+      "exportBtn": "Export",
+      "request_date": "Request Date",
+      "last_7_days": "Last 7 days",
+      "last_30_days": "Last 30 days",
+      "custom_range": " Custom Range",
+      "start_date": "Start Date",
+      "end_date": "End Date",
+      "table": {
+        "name": "Name",
+        "productName": "Product Name",
+        "material": "Material",
+        "series": "Series",
+        "brand": "Brand",
+        "requestDate": "Request Date"
+      }
+    }
+  }
+}

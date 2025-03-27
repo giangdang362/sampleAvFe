@@ -1,0 +1,23 @@
+{
+  "menu": {
+    "showSidebar": "Show sidebar",
+    "hideSidebar": "Hide sidebar",
+    "libraries": "libraries",
+    "product_library": "Product Library",
+    "settings": "Settings",
+    "admin": {
+      "products": "Products",
+      "projects": "Projects"
+    },
+    "user": {
+      "products": "Products"
+    },
+    "search_header": "Search or drag your image here",
+    "search_image": "Search by image",
+    "setting": "Settings",
+    "account": "Account",
+    "profile": "Profile",
+    "logout": "Log out",
+    "aiSearch": "AI Search"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "errorMsg": {
+    "required": "This field is required",
+    "tooLong": "This field must not be longer than {count, plural, =1 {# character} other {# characters}}.",
+    "alreadyExists": "Already exists",
+    "MSG_001": "Invalid time range",
+    "MSG_002": "Could not upload file",
+    "MSG_003": "Import failed. Secret/Private Pinterest boards cannot be imported.",
+    "MSG_004": "No result",
+    "MSG_005": "The email has been already taken",
+    "MSG_006": "Invalid email",
+    "MSG_007": "Incorrect password",
+    "MSG_008": "Incorrect email",
+    "MSG_009": "Unsupported format. Please choose images with following formats: PNG, JPG,  WebP, AVIF, APNG, SVG",
+    "MSG_010": "File size exceeds the maximum limit",
+    "MSG_011": "This field is required ",
+    "MSG_012": "Pinboard already exist",
+    "MSG_013": "Schedule already exist"
+  }
+}

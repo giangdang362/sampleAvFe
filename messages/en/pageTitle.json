@@ -1,0 +1,44 @@
+{
+  "pageTitle": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "resetPassword": "Reset Password",
+    "createNewPassword": "Create New Password",
+    "emailVerified": "Email Verified",
+
+    "searchResult": "Search Result",
+    "imageSearchResult": "Image Search Result",
+
+    "products": "Product Library",
+    "userLibrary": "User Product Library",
+    "productDetail": "{name} | Product",
+    "createProduct": "Create Product",
+
+    "projects": "Projects",
+    "projectFiles": "{name} | Project",
+    "projectManage": "{name} | Manage Project",
+    "createProject": "Create Project",
+    "deletedProject": "Deleted Projects",
+
+    "pinboard": "{name} | Pinboard",
+    "materialSchedule": "{name} | Material Schedule",
+    "materialScheduleDetail": "{name} | Material Schedule Product",
+
+    "imageLibrary": "Image Library",
+
+    "suppliers": "Suppliers",
+    "supplierDetail": "{name} | Supplier",
+    "addSupplier": "New Supplier",
+
+    "userManagement": "Users",
+    "userManagementDetail": "{name} | User Information",
+
+    "myAccount": "My Account",
+
+    "share": "{name}",
+
+    "attributeManager": "Attribute Manager",
+
+    "report": "Reports"
+  }
+}

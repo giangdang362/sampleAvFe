@@ -1,0 +1,23 @@
+{
+  "myAccount": {
+    "confirmNewError": "Confirm New Password wrong !",
+    "yourPasswordUpdated": "Your password updated !",
+    "currentPasswordWrong": "Current Password wrong !",
+    "somethingWrong": "Something wrong !",
+    "label": {
+      "currentPassword": "Current Password",
+      "newPassword": "New Password",
+      "confirmNewPassword": "Confirm New Password",
+      "fullName": "Full Name",
+      "emailAddress": "Email Address",
+      "timeZone": "Time Zone",
+      "companyName": "Company Name",
+      "linkdedinURL": "Linkdedin URL"
+    },
+    "button": {
+      "saveChange": "Save Change"
+    },
+    "thisFieldIsRequired": "This field is required",
+    "yourProfileUpdated": "Your profile updated !"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "userManagement": {
+    "title": "Users",
+    "title_detail": "User Information",
+    "search_text": "Search",
+    "last_login": "Last Login",
+    "subscription_plan": "Subscription Plan",
+    "full_name": "Name",
+    "user_type": "User Type",
+    "email": "Email",
+    "full_name_detail": "Full Name",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "linkedIn": "LinkedIn",
+    "company": "Company",
+    "projects_created": "Projects Created",
+    "active": "Active",
+    "delete_user": "Delete User",
+    "add": "Add",
+    "save": "Save",
+    "cancel": "Cancel",
+    "registeredOn": "Registered on",
+    "last_login_detail": "Last login",
+    "last_three_days": "Last three days",
+    "last_week": "Last week",
+    "last_month": "Last month",
+    "deleteContent": "Are you sure you want to delete <b>{name}</b>?",
+    "status": "Status",
+    "active_tag": "Activated",
+    "not_active_tag": "Not Activated",
+    "user_not_found": "User not found"
+  }
+}

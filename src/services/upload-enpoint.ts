@@ -1,0 +1,15 @@
+export const UPLOAD_ENDPOINTS = [
+  "uploadImageFiles",
+  "uploadLogo",
+  "uploadImage",
+  "uploadAttachments",
+  "uploadAttachment",
+  "uploadAvatarUser",
+  "uploadAttachmentProductSchedule",
+  "uploadAttachmentsSchedule",
+  "uploadImageFilesSchedule",
+  "uploadImagesLibrary",
+  "uploadAvaMe",
+  "uploadImageAISearch",
+  "importExcel",
+];
